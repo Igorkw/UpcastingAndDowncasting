@@ -1,0 +1,14 @@
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\net7.0\UpcastingAndDowncasting.exe
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\net7.0\UpcastingAndDowncasting.deps.json
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\net7.0\UpcastingAndDowncasting.runtimeconfig.json
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\net7.0\UpcastingAndDowncasting.dll
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\bin\Debug\net7.0\UpcastingAndDowncasting.pdb
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\net7.0\UpcastingAndDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\net7.0\UpcastingAndDowncasting.AssemblyInfoInputs.cache
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\net7.0\UpcastingAndDowncasting.AssemblyInfo.cs
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\net7.0\UpcastingAndDowncasting.csproj.CoreCompileInputs.cache
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\net7.0\UpcastingAndDowncasting.dll
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\net7.0\refint\UpcastingAndDowncasting.dll
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\net7.0\UpcastingAndDowncasting.pdb
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\net7.0\UpcastingAndDowncasting.genruntimeconfig.cache
+D:\TI\Estudos\Udemy\C#\Seção 10 - Herança e polimorfismo\UpcastingAndDowncasting\UpcastingAndDowncasting\obj\Debug\net7.0\ref\UpcastingAndDowncasting.dll
